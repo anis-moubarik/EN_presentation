@@ -1,0 +1,42 @@
+1st slide:
+ -1st quick summary of the presentation
+ -History of the internet and how it all started
+ -Progression since the inception of internet
+ -What there holds for the internet
+
+2nd slide:
+ -Two nodes between UCLA and Stanford, these were the backbones of ARPANET (The advanced research projects agency network)
+ -Mainly used in academia and military
+ -Commercial ISPs started to emerge in late 80's, I guess everybody still remembers the modem sound and excruciatingly slow speeds
+ -WWW was developed in CERN by Tim Berners-Lee
+ -PIC
+
+3rd slide:
+  -Internet has grown at a insane rate
+  -And there's very real problem in scaling the internet, and software that utilize the internet to scale with the sheer number of users and devices.
+  -One of the more serious problem is the IP-address allocation within the current IPv4 protocl.
+  -It can now hold around 4-5 billion addresses and every device that connects to the internet needs one. So you can quickly count how many devices you yourself have and multiply that by the earlier amount of internet users.
+
+ 4th slide:
+   -So what's cool about the internet
+   -Extremly easy to find information, and not only text, but audio and video too.
+   -Communicating with someone at the other side of the earth is basicly free and instant.
+   -Net neutrality (also network neutrality, Internet neutrality) is the principle that Internet service providers and governments should treat all data on the Internet equally, not discriminating or charging differentially by user, content, site, platform, application, type of attached equipment, and modes of communication.
+   -Although this is sometimes violated by censorship and so on
+   -Independency is really important, there's no one entity that has control over it and this guarantees freedom.
+   -And most importantly, you can procrastinate with ease.
+
+ 5th slide:
+   -To conquer the problem of IP-address exhaustion, there's new protocol, called IPv6, coming along. Addres space will be huge then. It is
+
+ 6th slide:
+   - A big number
+
+ 7th slide:
+   -It's actually 340 undecillion, Is it enough? You never know, 4.2 billion was deemed enough back in 1960.
+   -ISPs will offer even quicker connections
+   -Humans will be more interactive on the internet and start to leave a virtual footprint
+   -Augmented realities will become well reality.
+
+ 8th slide:
+   -Augmented reality is actually not so distant future, Google have been hard at work with, what the call, Project Glass. Let's check out the video.
